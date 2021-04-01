@@ -4,6 +4,8 @@
 
 #### Simulation Environment ####
 1. [Robosuite](https://robosuite.ai/)
+2. [OpenAI Robotics](https://gym.openai.com/envs/#robotics)
+3. [GazeboSim](http://gazebosim.org/)
 
 
 #### Manipulation Tasks ####
