@@ -9,6 +9,8 @@
 4. [dm_control](https://github.com/deepmind/dm_control)
 5. [Pybullet-robot-envs](https://github.com/robotology-playground/pybullet-robot-envs)
 
+#### Benchmark ####
+ 1. [Meta-world](https://meta-world.github.io/)
 
 #### Manipulation Tasks ####
  1. Block Lifting
