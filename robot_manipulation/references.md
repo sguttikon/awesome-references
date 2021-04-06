@@ -12,6 +12,7 @@
 #### Benchmark ####
  1. [Meta-world](https://meta-world.github.io/)
  2. [Robosuite](https://github.com/ARISE-Initiative/robosuite-benchmark)
+ 3. [RLBench](https://github.com/stepjam/RLBench)
 
 #### Manipulation Tasks ####
  1. Block Lifting
